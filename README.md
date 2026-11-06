@@ -16,36 +16,34 @@ Provide quiz features for self-assessment.
 Track student progress and performance.
 Create a user-friendly educational platform.
 5. Target Users
-Students
-Self-learners
-Teachers or tutors
-Educational institutions
-6. Main Features
+High School
+College Students
+7. Main Features
 User Login and Registration
 Study Material Management
 Quiz Creation and Taking
 Progress Tracking
 User Dashboard
 Performance Monitoring
-7. Technologies Used
+8. Technologies Used
 Java
 Object-Oriented Programming (OOP)
 GitHub
 Draw.io / StarUML (for diagrams)
-8. Team Members and Roles
+9. Team Members and Roles
 Team Member	Role
 Member 1	Project Manager
 Member 2	Lead Developer
 Member 3	Documentation Specialist
 Member 4	UI/UX Designer
-9. OOP Concepts Demonstrated
+10. OOP Concepts Demonstrated
 Encapsulation
 Inheritance
 Polymorphism
 Abstraction
 Object Composition
 Class Relationships
-10. Instructions for Running the Program
+11. Instructions for Running the Program
 Clone the repository:
 git clone https://github.com/hernandezrheajean07-cyber/Studify_OOP.git
 Open the project in your preferred IDE.
