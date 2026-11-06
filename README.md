@@ -1,7 +1,7 @@
 # Studify_OOP
 
 1. Project Title
-Studify: A Student Study Management and Quiz System
+Studify: An Adaptive Study Strategy and Progress Tracking System.
 
 2. Project Description
 Studify is an Object-Oriented Programming (OOP) application designed to help students organize study materials, manage quizzes, track progress, and improve learning efficiency. The system provides an easy-to-use platform for educational activities and academic management.
